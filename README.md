@@ -26,4 +26,6 @@
         
 Required parameters [parameter] should be omitted in interactive mode, except for filter options
 
+To enter interactive mode just run the application with 0 initial parameters
+
 Application meeting data is saved in data.json file
